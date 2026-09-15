@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Ouissal NARI</h1>
+<h1 align="center">Hi 👋, I'm Ouissal Nari</h1>
 
 <h3 align="center">
-  AI & Data Engineering Student · Full-Stack Developer
+  Data & AI Engineering Student · Full-Stack Developer
 </h3>
 
 <p align="center">
-  <em>Engineering student passionate about Artificial Intelligence, Data Engineering and building intelligent software solutions.</em>
+  <em>Engineering student passionate about Artificial Intelligence, Data Engineering, and building intelligent, production-ready software.</em>
 </p>
 
 <p align="center">
@@ -21,88 +21,78 @@
 
 ### 👩‍💻 About Me
 
-* 🎓 Engineering student specializing in **Data & Artificial Intelligence**
-* 🤖 Interested in **Machine Learning, Deep Learning & Data Engineering**
-* 💻 Building applications combining **AI, data and software engineering**
-* 🔭 Currently working as a **Software Engineering Intern @ INTIC SOLUTIONS**
-* 🚀 Developing projects around **AI, Big Data, Supply Chain & ESG**
-* 🌱 Continuously learning and exploring new technologies
-* 🤝 Open to collaborating on innovative **AI & Data projects**
+* 🎓 Final-year engineering student specializing in **Data & Artificial Intelligence** @ Universiapolis
+* 🔭 Currently interning as a **Software Engineer** @ INTIC Solutions — working on WavePMS and an AI-security partnership project
+* 🚀 Co-founder & lead of **TruckNet**, a student startup for AI-driven transport safety and ESG reporting
+* 🤖 Focused on **Machine Learning, Deep Learning, and Data Engineering**
+* 🌐 Building full-stack applications with **Next.js, FastAPI, and PostgreSQL**
+* 🌱 Always learning — currently exploring Row-Level Security and advanced Next.js patterns
+* 🤝 Open to collaborating on **AI & Data-driven projects**
 
 ---
 
 ### 🚀 Featured Projects
 
-#### 🚛 TruckNet — Supply Chain & RSE Intelligence Suite
+#### 🚛 TruckNet — Transport Safety & ESG Intelligence Suite
 
-An intelligent platform combining AI, fleet management and ESG intelligence.
+Intelligent platform combining computer vision, IoT fleet monitoring, and ESG reporting for Moroccan transport SMEs. Winner of **1er Prix FEECRA 2026**.
 
-* **SafeDetect** — Computer Vision & real-time safety detection
-* **TruckNet Core** — Fleet and logistics intelligence
-* **ReportFlow** — ESG, CSRD & sustainability reporting
+* **SafeDetect** — blind spot detection with YOLOv8 + 24GHz radar
+* **TruckNet Core** — IoT fleet dashboard (FastAPI, React, InfluxDB)
+* **ESG Platform** — LLM-generated CSRD compliance reports
 
-**Tech:** Python · YOLOv8 · Computer Vision · Data Engineering · AI
+**Tech:** Python · YOLOv8 · FastAPI · React · InfluxDB
 
 ---
 
 #### 📊 Big Data Medallion Pipeline
 
-A data engineering pipeline designed around the **Medallion Architecture**.
+Data engineering pipeline built around the Medallion Architecture for a university Big Data project.
 
-**Tech:** Apache Spark · PySpark · Apache Kafka · MinIO · Python
-
----
-
-#### 🩻 Chest X-Ray AI
-
-Deep Learning application for medical image classification and visualization.
-
-**Tech:** Python · TensorFlow · CNN · Streamlit
+**Tech:** PySpark · MinIO · Python
 
 ---
 
-### 🛠️ Languages & Technologies
+#### 🩻 Medical Diagnostic AI
 
-#### 💻 Programming
+Deep learning application for medical image classification with a clinician-facing interface.
 
+**Tech:** Python · DenseNet121 · Streamlit · SQLite
+
+---
+
+### 🛠️ Skills
+
+#### Programming Languages
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="Java"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" width="40" height="40" alt="SQL"/>
 </p>
 
-#### 🤖 AI & Data
-
+#### AI & Data
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40" alt="Pandas"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40" height="40" alt="NumPy"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="40" height="40" alt="TensorFlow"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="40" height="40" alt="PyTorch"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache-spark/apache-spark-original.svg" width="40" height="40" alt="Spark"/>
 </p>
 
-**Machine Learning · Deep Learning · Computer Vision · PySpark · Data Analysis · ETL · Big Data**
+**Machine Learning · Deep Learning · Computer Vision · PySpark · Data Analysis · Big Data**
 
-#### 🌐 Full-Stack Development
-
+#### Full-Stack Development
 <p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40" height="40" alt="Next.js"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40" alt="React"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="40" height="40" alt="Vue.js"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" width="40" height="40" alt="Angular"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="40" height="40" alt="Spring"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40" alt="Tailwind CSS"/>
 </p>
 
-#### 🗄️ Databases & Infrastructure
-
+#### Databases & Infrastructure
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40" alt="Docker"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" alt="Linux"/>
 </p>
@@ -124,7 +114,7 @@ Deep Learning application for medical image classification and visualization.
 
 ### 📫 Let's Connect
 
-I'm always interested in discussing **AI, Data Engineering, Software Development and innovative projects**.
+I'm always interested in discussing **AI, Data Engineering, and Software Development**.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ouissal-nari-33257b313/">
